@@ -6,4 +6,4 @@ We try to keep all of our workings transparent, in order to facilitate anyone to
 
 * Our [current tasks](https://github.com/sugarlabs-infra/translation-team/issues)
 
-* Our [Team Community Manager](https://wiki.sugarlabs.org/go/Translation-Community_Manager) and other community technicians an interested parties monitor this repository and facilitate advancing this area of work.
+* Our Team Coordinators, Community Managers, Localization Committe and other community members as translators, technicians and any interested party, may monitor this repository and facilitate advancing this area of work.
